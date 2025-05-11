@@ -1,1 +1,2 @@
 # Food-Service-EDA
+This project aims to analyze a food service dataset to uncover insights into operational efficiency and food waste management. The dataset includes variables such as the number of meals served, kitchen staff, environmental conditions (temperature and humidity), day of the week, special events, past food waste, staff experience, and waste categories. The goal is to clean the data, explore patterns, test hypotheses, and provide actionable recommendations to optimize operations and reduce food waste.
